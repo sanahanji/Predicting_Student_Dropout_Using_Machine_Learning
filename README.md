@@ -1,0 +1,2 @@
+# Predicting_Student_Dropout_Using_Machine_Learning
+This project aims to predict student dropout using machine learning models like Logistic Regression, Random Forest, and XGBoost. By analyzing academic performance, socioeconomic status, and demographics, we identify at-risk students for early intervention. Key features like grades and tuition status help guide strategies to improve retention rates.
